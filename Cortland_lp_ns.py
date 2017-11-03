@@ -19,7 +19,7 @@ RhodiumConfig.default_evaluator = MapEvaluator()
 from math import log, sqrt
 import numpy as np
 
-os.chdir('/Users/cms793/Documents/MORDMedmaterials/Animations/Cortland')
+os.chdir('')
 
 #------------------------------------------------------------------------------
 # Make lake dynamics plots
